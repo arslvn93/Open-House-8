@@ -20,9 +20,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "",
-    "logoUrl": "",
-    "address": ""
+    "name": "Real Broker Ontario Ltd.",
+    "logoUrl": "https://media.curaytor.com/resize-1200-0-scaledown/7514e1e4-675f-4fa4-9c72-9f78f61b8048/img.webp?quality=80",
+    "address": "70 Jutland Road, Unit 16, Toronto, ON M8Z 2G6"
   },
   "openHouse": {
     "bundleItems": [
