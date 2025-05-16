@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "TH4 300 Avenue Rd",
     "city": "Toronto",
@@ -64,6 +64,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-8",
     "tag": "Open House 300 Avenue Rd",
     "netlifyUrl": "http://Open-House-8.netlify.app",
-    "netlifyId": "985000847"
+    "netlifyId": "ba52597e-51ba-4cac-ba69-ce50acecf966"
   }
 }
