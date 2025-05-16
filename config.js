@@ -12,7 +12,7 @@ const config = {
     "phone": "",
     "email": "ryan@northgroup.com",
     "bio": "",
-    "photoUrl": "",
+    "photoUrl": "https://media.curaytor.com/original/d03a006d-3dd0-4e5a-a811-c22b316ed2af/Ryan1_bw%20(1).jpg",
     "social": {
       "facebook": "",
       "instagram": "",
