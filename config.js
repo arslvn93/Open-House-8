@@ -8,10 +8,10 @@ const config = {
   },
   "realtor": {
     "fullName": "Ryan Wykes",
-    "title": "",
-    "phone": "",
+    "title": "Broker",
+    "phone": "647-627-6594",
     "email": "ryan@northgroup.com",
-    "bio": "",
+    "bio": "Ryan is the Co-Founder of SalesGenius & Sr. Partner at North Group Real Estate team in Toronto. He began his real estate career on a small team in the online lead space and quickly became obsessed with converting online leads into clients quicker & with less effort. Over the past 12 years, Ryan has had many achievements, including becoming a Seven Figure Realtor in TREBB in under 5 years in the business, the #1 agent at the largest team in North America & becoming a co-founder and the SVP of sales for Property.ca/Condos.ca. All of these experiences fueled Ryan's obsession with simplifying the sales and conversion process, and today, he is focused on helping North Group become the #1 Producing team in Canada & helping agents time pack to be able to leverage all that he has learned and developed over the past 25 years in sales through the SalesGenius coaching platforms.",
     "photoUrl": "https://media.curaytor.com/original/d03a006d-3dd0-4e5a-a811-c22b316ed2af/Ryan1_bw%20(1).jpg",
     "social": {
       "facebook": "",
@@ -20,8 +20,8 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "REAL BROKER LTD",
-    "logoUrl": "https://media.curaytor.com/resize-1200-0-scaledown/7514e1e4-675f-4fa4-9c72-9f78f61b8048/img.webp?quality=80",
+    "name": "",
+    "logoUrl": "",
     "address": ""
   },
   "openHouse": {
@@ -62,8 +62,8 @@ const config = {
   },
   "meta": {
     "pageTitlePrefix": "🏡 Open House 300 Avenue Rd",
-    "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://www.northgroup.com/privacy-policy"
+    "navBrandLogoText": "Ryan Wykes",
+    "privacyPolicyLink": ""
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
