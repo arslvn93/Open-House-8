@@ -61,9 +61,9 @@ const config = {
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Open House 300 Avenue Rd",
-    "navBrandLogoText": "Ryan Wykes",
-    "privacyPolicyLink": ""
+    "pageTitlePrefix": "300 Avenue Rd",
+    "navBrandLogoText": "OPEN HOUSE",
+    "privacyPolicyLink": "https://www.northgroup.com/privacy-policy"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
