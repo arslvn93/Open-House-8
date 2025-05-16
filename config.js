@@ -20,8 +20,8 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "",
-    "logoUrl": "",
+    "name": "REAL BROKER LTD",
+    "logoUrl": "https://media.curaytor.com/resize-1200-0-scaledown/7514e1e4-675f-4fa4-9c72-9f78f61b8048/img.webp?quality=80",
     "address": ""
   },
   "openHouse": {
