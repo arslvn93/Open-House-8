@@ -1,88 +1,69 @@
-const config = {
+{
   "property": {
-    "streetAddress": "142 Valley Glen Heights NW",
-    "city": "Calgary",
-    "cityStateZip": "Calgary, AB T3B 5S8",
-    "heroSubtitle": "Amazing back yard, expansive 44x146-foot lot (7,588 sq ft) backing onto a tranquil nature reserve and the renowned Bow River Pathway. Register to receive the complete property Home &amp; Neighbourhood Info Package, virtual tour, floor plans, and comparables.",
-    "backgroundImageUrl": "https://cdn.realtor.ca/listing/TS638829328681570000/reb9/highres/1/A2219911_1.jpg"
+    "streetAddress": "TH4 300 Avenue Rd",
+    "city": "Toronto",
+    "cityStateZip": "Toronto, ON M4V 2H1",
+    "heroSubtitle": "Fully Renovated Townhouse Loft with Massive Terrace, Sauna & Sunset Views. Register to receive the property website, floor plan, virtual tour, neighbourhood insights, and comparables.",
+    "backgroundImageUrl": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80"
   },
   "realtor": {
-    "fullName": "Amy Caughlin",
-    "title": "REALTOR®",
-    "phone": "15874391618",
-    "email": "amy@caughlinrealestate.ca",
-    "bio": "A former risk manager turned Realtor, proptech co-founder, podcast host, and passionate community advocate. I help busy professionals and families find homes that truly fit their lives, while working behind the scenes to make real estate better for everyone involved. With a background in risk management, I bring a strategic lens to every transaction, ensuring my clients make informed, confident decisions. I’m also the co-founder of Jazzberry, a platform designed by realtors, for realtors. A proud Maritimer, I lead with authenticity, hospitality, and heart. Whether I’m running along the Bow River, adventuring in the mountains with my family, or hosting FutureRE — The Future of Real Estate, I’m always driven by curiosity, connection, and impact.",
-    "photoUrl": "https://static.showit.co/800/TUEDlhwVYAO5v1iU87fE1w/264146/headshot.jpg",
+    "fullName": "Ryan Wykes",
+    "title": "",
+    "phone": "",
+    "email": "ryan@northgroup.com",
+    "bio": "",
+    "photoUrl": "",
     "social": {
-      "facebook": "https://www.facebook.com/caughlinrealestate/",
-      "instagram": "https://www.instagram.com/caughlin.realestate/",
-      "website": "https://caughlinrealestate.ca/"
+      "facebook": "",
+      "instagram": "",
+      "website": ""
     }
   },
   "brokerage": {
-    "name": "Greater Property Group",
-    "logoUrl": "https://static.showit.co/400/I76PcfBRdfuEObejOPwzPQ/264146/gpg-no-tagline-logo-white.png",
-    "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
+    "name": "",
+    "logoUrl": "",
+    "address": ""
   },
   "openHouse": {
-    "eventDate": "2025-05-17",
     "bundleItems": [
-      {
-        "icon": "fas fa-ruler-combined",
-        "text": "Architectural Floor Plan"
-      },
-      {
-        "icon": "fas fa-star",
-        "text": "Neighbourhood Guide"
-      },
-      {
-        "icon": "fas fa-check-circle",
-        "text": "Market Stats"
-      },
-      {
-        "icon": "fas fa-car",
-        "text": "School District Information"
-      },
-      {
-        "icon": "fas fa-key",
-        "text": "Financing Resources"
-      },
-      {
-        "icon": "fas fa-home",
-        "text": "Utility Cost Estimates"
-      },
-      {
-        "icon": "fas fa-map-location-dot",
-        "text": "Property Feature List"
-      },
-      {
-        "icon": "fas fa-image",
-        "text": "Home Inspection Tips"
-      }
+      { "icon": "fas fa-ruler-combined", "text": "Architectural Floor Plan: https://app.realmmlp.ca/shared/XlRq9W88bVcjmoM85rqe/eP5L3rZYmMUyjk5GgEjaia3A24la7jtykbrq3V2Qirj6l9WRW4Hw8VMPQXbwFzn9Aj2VeeiowmbWylrEsyzGOaXW5GcrnkwQwjnwh9LREjEgLEFRBEz4KknwfgqV9eA2MYfeke3Bj" },
+      { "icon": "fas fa-star", "text": "Benefit: Massive Terrace w Sauna, Fire Place, Sunset Views and more" },
+      { "icon": "fas fa-check-circle", "text": "Benefit: Unique Modern Sun filled Loft meets Character Home" },
+      { "icon": "fas fa-key", "text": "Benefit: Best Neighbourhood in The City. Walk to Yorkville, Summerhill & Foresthill" },
+      { "icon": "fas fa-house", "text": "Key Feature: Fully renovated Townhouse Loft (20 ft. Ceilings in Living/Kitchen) with Victoria Charm" },
+      { "icon": "fas fa-map-location-dot", "text": "Neighbourhood: Walking distance to Best Shops, Restaurants, Schools and Public Transit" },
+      { "icon": "fas fa-link", "text": "Property Website: https://media.tre.media/listings/0196b059-13f0-7271-9320-b4e0e0c4b410/download-center#property_websites" },
+      { "icon": "fas fa-film", "text": "Virtual Tour: https://youriguide.com/th4_300_avenue_rd_toronto_on" },
+      { "icon": "fas fa-clone", "text": "Comparables & Recent Sales: https://app.realmmlp.ca/shared/XlRq9W88bVcjmoM85rqe/w23m6VlkLwh9r4jVZnr6s5yGeP85XQhN8LMaVJnYtwrMjzlElYuV5lODgrj9S3qnJ9jVyPiX1bPPYYooHO4VXjLeqgHr4ogOpAweuGB6gKgJBgtY4QlalX4lFXRVonmrQQHBqz2y7B4Acnnw6518g" },
+      { "icon": "fas fa-link", "text": "Property Listing: https://app.realmmlp.ca/shared/XlRq9W88bVcjmoM85rqe/6Xqwo6M5V3Umlj2nXNlDiywOe7PymASYRyOgXwopfEebMDKWKOs8k6jXrYZ8SLKZgADOVVfErg1aPm5qiDGOMZPW9OIMLpDrDELDI28YEeEN8EUqaZgK5bYVi6Dp3RPaGyIYqYeE9" }
     ]
   },
   "meta": {
-    "pageTitlePrefix": "🏡 Amy Caughlin Open House",
-    "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": "https://caughlinrealestate.ca/"
+    "pageTitlePrefix": "🏡 Open House 300 Avenue Rd",
+    "navBrandLogoText": "Ryan Wykes",
+    "privacyPolicyLink": ""
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
-    "confettiColors": [
-      "#6187a7",
-      "#f0e9d6",
-      "#ffffff",
-      "#83a363",
-      "#d9ac68"
-    ]
+    "confettiColors": ["#6187a7", "#f0e9d6", "#ffffff", "#83a363", "#d9ac68"]
   },
-  "modalQuestions": [],
+  "modalQuestions": [
+    {
+      "id": "agent_status",
+      "questionText": "Are you currently exploring homes with a real estate agent?",
+      "options": [
+        { "value": "committed", "text": "Yes, I'm committed to an agent." },
+        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
+        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+      ]
+    }
+  ],
   "deploymentInfo": {
-    "repoName": "Open-House-957",
-    "repoUrl": "https://github.com/arslvn93/Open-House-957",
-    "tag": "Open House 142 Valley Glen Heights NW",
-    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
-    "siteId": "dc35cadf-51e9-4ca8-843c-a084dd57add1"
+    "repoName": "Open-House-8",
+    "repoUrl": "https://github.com/arslvn93/Open-House-8",
+    "tag": "Open House 300 Avenue Rd",
+    "netlifyUrl": "http://Open-House-8.netlify.app",
+    "netlifyId": "985000847"
   }
-};
+}
