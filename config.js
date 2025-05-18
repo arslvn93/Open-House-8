@@ -100,7 +100,7 @@ const config = {
     "repoName": "Open-House-8",
     "repoUrl": "https://github.com/arslvn93/Open-House-8",
     "tag": "Open House 300 Avenue Rd",
-    "netlifyUrl": "http://Open-House-8.netlify.app",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/zpjvSoJ3TMkdq8pcj7VJ/webhook-trigger/A0CbwaLLpD85LuwFzrVb",
     "netlifyId": "ba52597e-51ba-4cac-ba69-ce50acecf966"
   }
 };
